@@ -123,4 +123,28 @@
     margin-top: 55px;
     padding-right: 60px;
 }
+
+/* banner 3 */
+.video-title{
+    text-align: center;
+    font-size: 32px;
+    font-weight: 400px;
+    font-family: "Azeret Mono", monospace;
+    padding-top: 50px;
+}
+.video-des{
+    font-size: 16px;
+    text-align: center;
+    font-family: "Azeret Mono", monospace;
+    opacity: 70%;
+}
+.ytvideo{
+    text-align: center;
+    border-radius: 16px;
+    border-image-outset: 10px;
+    width: 1140px;
+    height: 580px;
+    padding-top: 30px;
+    margin-top: 70px;
+    margin-left: 320px;
 }
