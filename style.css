@@ -32,3 +32,54 @@
     border-radius: 8px;
     margin-top: 30px;
 }
+
+/* Banner 2 */
+
+.about{
+    background-color: #FAFAFB;
+    border-radius: 16px;
+    height: 1140px;
+    margin: 50px 148px ;
+}
+.about-details{
+    color: #000000;
+    text-align: center;
+}
+.about-title{
+    font-family: "Azeret Mono", monospace;
+    font-size: 32px;
+    font-weight: 800px;
+    padding-top: 100px;
+}
+.about-des{
+    font-family: "Azeret Mono", monospace;
+    font-size: 16px;
+    opacity: 70%;
+    line-height: 30px;
+}
+.topic-1{
+    display: flex;
+    background: linear-gradient( to right, rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0));
+    color: white;
+    width: 1170px;
+    height: 336px;
+    margin-left: 148px;
+    margin-top: 50px;
+    border-radius: 16px;
+}
+.topic{
+    padding: 48px 48px 48px 48px;
+    color: #0D1321;
+    font-family: "Azeret Mono", monospace;
+    
+}
+.topic-title{
+    font-size: 24px;
+    font-weight: 400px;
+    opacity: 70%;
+}
+.topic-des{
+    font-size: 16px;
+    opacity: 70%;
+    line-height: 30px;
+}
