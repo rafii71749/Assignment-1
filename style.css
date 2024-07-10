@@ -13,6 +13,7 @@
     font-size: 48px;
     line-height: 68px;
     font-weight: 800px;
+    color: #0D1321;
 }
 .banner-sub-title{
     font-size: 16px;
@@ -50,6 +51,7 @@
     font-size: 32px;
     font-weight: 800px;
     padding-top: 100px;
+    color: #0D1321;
 }
 .about-des{
     font-family: "Azeret Mono", monospace;
@@ -78,6 +80,7 @@
     font-size: 24px;
     font-weight: 400px;
     opacity: 70%;
+    color: #0D1321;
 }
 .topic-des{
     font-size: 16px;
@@ -131,6 +134,7 @@
     font-weight: 400px;
     font-family: "Azeret Mono", monospace;
     padding-top: 50px;
+    color: #0D1321;
 }
 .video-des{
     font-size: 16px;
@@ -147,4 +151,153 @@
     padding-top: 30px;
     margin-top: 70px;
     margin-left: 320px;
+    
+}
+
+/* banner 4 */
+
+.topic-3-title{
+    text-align: center;
+    font-size: 32px;
+    font-weight: 400px;
+    font-family: "Azeret Mono", monospace;
+    padding-top: 50px;
+    color: #0D1321;
+}
+.topic-3-des{
+    font-size: 16px;
+    text-align: center;
+    font-family: "Azeret Mono", monospace;
+    opacity: 70%;
+    line-height: 30px;
+
+}
+
+.skills-container{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    padding-top: 50px;
+}
+.skill-1{
+    background-color: rgba(255, 76, 30, 0.05);
+    border-radius: 16px;
+    width: 364px;
+    height: 300px;
+    padding: 50px 40px 5px 40px;
+}
+.skill-2{
+    background-color: rgba(0, 76, 232, 0.05);
+    border-radius: 16px;
+    width: 364px;
+    height: 300px;
+    padding: 50px 40px 5px 40px;
+}
+.skill-3{
+    background-color: rgba(255, 223, 0, 0.05);
+    border-radius: 16px;
+    width: 364px;
+    height: 300px;
+    padding: 50px 40px 5px 40px;
+}
+.skill-1-title{
+    font-size: 32px;
+    font-weight: 400px;
+    font-family: "Azeret Mono", monospace;
+    color: #0D1321;
+}
+.skill-1-des{
+    font-size: 16px;
+    font-family: "Azeret Mono", monospace;
+    opacity: 70%;
+}
+.more-link-1{
+    font-size: 16px;
+    font-family: "Azeret Mono", monospace;
+    font-weight: bold;
+    color: #0D1321;
+}
+.skill-2-title{
+    font-size: 32px;
+    font-weight: 400px;
+    font-family: "Azeret Mono", monospace;
+    color: #0D1321;
+}
+.skill-2-des{
+    font-size: 16px;
+    font-family: "Azeret Mono", monospace;
+    opacity: 70%;
+}
+.more-link-2{
+    font-size: 16px;
+    font-family: "Azeret Mono", monospace;
+    font-weight: bold;
+    color: #0D1321;
+}
+.skill-3-title{
+    font-size: 32px;
+    font-weight: 400px;
+    font-family: "Azeret Mono", monospace;
+    color: #0D1321;
+}
+.skill-3-des{
+    font-size: 16px;
+    font-family: "Azeret Mono", monospace;
+    opacity: 70%;
+}
+.more-link-3{
+    font-size: 16px;
+    font-family: "Azeret Mono", monospace;
+    font-weight: bold;
+    color: #0D1321;
+}
+
+/* banner 5 */
+
+.banner-2{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(assets/handshake.jpg);
+    width:1140px;
+    height: 314px;
+    border-radius: 16px;
+    background-size: cover;
+    background-position: center;
+    margin: 50px 140px 50px 200px;
+    justify-content: center;
+}
+.banner-2-title{
+    text-align: center;
+    color: white;
+    font-size: 32px;
+    font-weight: 400px;
+    font-family: "Azeret Mono", monospace;
+    padding-top: 50px;
+}
+.banner-2-des{
+    text-align: center;
+    color: white;
+    font-size: 16px;
+    font-family: "Azeret Mono", monospace;
+}
+#txt{
+    width: 548px;
+    height: 57px;
+    border-radius: 16px;
+    border: none;
+    
+}
+.btn-3{
+    width: 120px;
+    height: 58px;
+    border-radius: 16px;
+    font-size: 16px;
+    font-family: "Azeret Mono", monospace;
+    font-weight: 600px;
+    background-color: white;
+    border: none; 
+
+}
+.writing-area{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
 }
